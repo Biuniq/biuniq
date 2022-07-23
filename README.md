@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on PUYA
 
-- 🌱 I’m currently learning PUYA
+- 🌱 I’m currently learning
 
-- 📄 Know about my experiences ½60 PUYA
+- 📄 Know about my experiences
 
 
 <h3 align="left">Connect with me:</h3>
